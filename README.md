@@ -4,7 +4,7 @@ Front-end Developer | UI/UX Designer | Full-stack Developer Trainee
 
 Building digital experiences through code, creativity and design.
 
-""GitHub" (https://img.shields.io/badge/GitHub-biggiefranc-8B5CF6?style=flat-square&logo=github&logoColor=white)" (https://github.com/biggiefranc)
+![Github](https://img.shields.io/badge/GitHub-biggiefranc-8B5CF6?style=flat-square&logo=github&logoColor=white)" (https://github.com/biggiefranc)
 
 ---
 
